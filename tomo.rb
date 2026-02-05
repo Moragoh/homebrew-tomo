@@ -1,8 +1,8 @@
 class Tomo < Formula
   desc "A Python-based Pomodoro timer"
   homepage "https://github.com/Moragoh/TerminalPomodoro"
-  url "https://github.com/Moragoh/TerminalPomodoro/releases/download/v1.1.0/tomo-v1.1.0.tar.gz"
-  sha256 "3d5801925e9ec01edfd61d0990207c082a8ebea924273c7681a0e5bab8f3c8a6"
+  url "https://github.com/Moragoh/TerminalPomodoro/releases/download/v1.3.0/tomo-v1.3.0.tar.gz"
+  sha256 "2267a65b1266a14ada9422aa72eb6789425744c00b33b90aa0ebaa2f8c99ccc4"
   license "MIT"
 
   depends_on "python@3.11"
